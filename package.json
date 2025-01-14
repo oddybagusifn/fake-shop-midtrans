@@ -2,6 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "dev": "vite",
         "build": "vue-cli-service build"
     },
     "devDependencies": {
